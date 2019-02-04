@@ -1950,4 +1950,14 @@
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
   <project name="LineageOS/zte-kernel-msm7x27" />
+  <project name="los-legacy/android_device_samsung_jf-common" />
+  <project name="los-legacy/android_device_samsung_jfltexx" />
+  <project name="los-legacy/android_kernel_samsung_jf" />
+  <project name="los-legacy/proprietary_vendor_samsung_jf" />
+  <project name="JDCTeam/android_bionic" />
+  <project name="JDCTeam/android_external_arm-optimized-routines" />
+  <project name="JDCTeam/android_external_perfetto" />
+  <project name="JDCTeam/android_kernel_samsung_jf-pieForCommunity" />
+  <project name="JDCTeam/android_system_core-pie" />
+  <project name="tsvietOK/proprietary_vendor_samsung" />
 </manifest>
