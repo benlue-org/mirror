@@ -1954,6 +1954,9 @@
   <project name="los-legacy/android_device_samsung_jfltexx" />
   <project name="los-legacy/android_kernel_samsung_jf" />
   <project name="los-legacy/proprietary_vendor_samsung_jf" />
+  <project name="los-legacy/android_bionic" />
+  <project name="los-legacy/android_external_arm-optimized-routines" />
+  <project name="los-legacy/android_system_core" />
   <project name="JDCTeam/android_bionic" />
   <project name="JDCTeam/android_external_arm-optimized-routines" />
   <project name="JDCTeam/android_external_perfetto" />
