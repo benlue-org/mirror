@@ -903,7 +903,9 @@
   <project name="LineageOS/www" />
   <project name="LineageOS/zte-kernel-msm7x27" />
   <project name="los-legacy/android_device_samsung_jf-common" />
+  <project name="los-legacy/android_device_samsung_jfve-common" />
   <project name="los-legacy/android_device_samsung_jfltexx" />
+  <project name="los-legacy/android_device_samsung_jfvelte" />
   <project name="los-legacy/android_kernel_samsung_jf" />
   <project name="los-legacy/proprietary_vendor_samsung_jf" />
   <project name="los-legacy/android_bionic" />
