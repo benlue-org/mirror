@@ -916,16 +916,20 @@
   <project name="los-legacy/android_device_samsung_jf-common" />
   <project name="los-legacy/android_device_samsung_jfve-common" />
   
+  <!--Device smdk4412-common -->
+  <project name="ChronoMonochrome/android_kernel_samsung_smdk4412" />
+  <project name="CustomROMs/android_device_samsung_smdk4412-common" />  
+  <project name="CustomROMs/android_vendor_samsung_smdk4412-common" />
+  
   <!--Device jfltexx -->
   <project name="los-legacy/android_device_samsung_jfltexx" />
-  <project name="los-legacy/android_device_samsung_jfvelte" />
   <project name="los-legacy/android_kernel_samsung_jf" />
   <project name="los-legacy/proprietary_vendor_samsung_jf" />
   
+  <!--Device jfvelte -->
+  <project name="los-legacy/android_device_samsung_jfvelte" />
+  
   <!--Device i9300 -->
-  <project name="ChronoMonochrome/android_kernel_samsung_smdk4412" />
-  <project name="CustomROMs/android_device_samsung_smdk4412-common" />
   <project name="CustomROMs/android_device_samsung_i9300" />
-  <project name="CustomROMs/android_vendor_samsung_smdk4412-common" />
   <project name="CustomROMs/android_vendor_samsung_i9300" />
 </manifest>
