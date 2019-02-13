@@ -902,19 +902,30 @@
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
   <project name="LineageOS/zte-kernel-msm7x27" />
-  <project name="los-legacy/android_device_samsung_jf-common" />
-  <project name="los-legacy/android_device_samsung_jfve-common" />
-  <project name="los-legacy/android_device_samsung_jfltexx" />
-  <project name="los-legacy/android_device_samsung_jfvelte" />
-  <project name="los-legacy/android_kernel_samsung_jf" />
-  <project name="los-legacy/proprietary_vendor_samsung_jf" />
   <project name="los-legacy/android_bionic" />
   <project name="los-legacy/android_external_arm-optimized-routines" />
   <project name="los-legacy/android_system_core" />
   <project name="JDCTeam/android_bionic" />
   <project name="JDCTeam/android_external_arm-optimized-routines" />
   <project name="JDCTeam/android_external_perfetto" />
-  <project name="JDCTeam/android_kernel_samsung_jf-pieForCommunity" />
   <project name="JDCTeam/android_system_core-pie" />
+  <project name="JDCTeam/android_kernel_samsung_jf-pieForCommunity" />
   <project name="tsvietOK/proprietary_vendor_samsung" />
+  
+  <!--Device jf-common -->
+  <project name="los-legacy/android_device_samsung_jf-common" />
+  <project name="los-legacy/android_device_samsung_jfve-common" />
+  
+  <!--Device jfltexx -->
+  <project name="los-legacy/android_device_samsung_jfltexx" />
+  <project name="los-legacy/android_device_samsung_jfvelte" />
+  <project name="los-legacy/android_kernel_samsung_jf" />
+  <project name="los-legacy/proprietary_vendor_samsung_jf" />
+  
+  <!--Device i9300 -->
+  <project name="ChronoMonochrome/android_kernel_samsung_smdk4412" />
+  <project name="CustomROMs/android_device_samsung_smdk4412-common" />
+  <project name="CustomROMs/android_device_samsung_i9300" />
+  <project name="CustomROMs/android_vendor_samsung_smdk4412-common" />
+  <project name="CustomROMs/android_vendor_samsung_i9300" />
 </manifest>
